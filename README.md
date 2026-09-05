@@ -7,10 +7,11 @@ projects that combine business domain knowledge with
 technical analysis skills.
 
 ## Skills
-- Python (Pandas)
-- Data Visualization (Matplotlib)
-- Excel Reporting
-- SQL (in progress)
+- Python (Pandas).
+- Data Visualization (Matplotlib).
+- Excel Reporting.
+- SQL.
+- Python Automation.
 
 ## Projects
 
