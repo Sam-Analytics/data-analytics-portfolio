@@ -11,7 +11,7 @@ technical analysis skills.
 - Data Visualization (Matplotlib).
 - Excel Reporting.
 - SQL.
-- Python Automation.
+- Python Automation(in progress)
 
 ## Projects
 
@@ -26,6 +26,11 @@ shipping profitability and regional market activity.
 ### 3. Procurement KPI Analysis
 Analysis of 777 purchase orders covering supplier defective 
 units, negotiation savings, delivery time and compliance.
+
+### 4. CompareEdge SQL Analysis
+Analysis of a SaaS product comparison website database using SQL JOIN 
+queries across 5 tables covering 331 products, pricing plans, features 
+and price history.
 
 ## Contact
 Email: ibrahimusamweli65@gmail.com
